@@ -41,14 +41,14 @@
 
 `উদাহরণ`
 
-```
+```py
 if 5 > 2:
   print("Five is greater than two!")
 ```
 
 `সিনট্যাক্স এররর: `
 
-```
+```py
 if 5 > 2:
 print("Five is greater than two!")
 ```
@@ -67,7 +67,7 @@ print("Five is greater than two!")
 
 `উদাহরণ`
 
-```
+```py
 #This is a comment
 print("Hello, World!")
 ```
@@ -78,7 +78,7 @@ print("Hello, World!")
 
 `উদাহরণ`
 
-```
+```py
 """
 This is a comment
 written in
